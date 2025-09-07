@@ -1,0 +1,97 @@
+[33mcommit 01616b40ea7ca23980fbc00667bb543b2ce7f4b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: S Kevin Joe Harris <59595928+Kevinjoeharris@users.noreply.github.com>
+Date:   Sat Jul 5 20:15:38 2025 +0530
+
+    Deploy on K8
+
+[33mcommit e6e06edcab23773858dbd605d4d048147d37ed12[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Thu Jul 3 22:20:03 2025 +0530
+
+    CICD Test 4
+
+[33mcommit 7f2d44fb1c788b6674597c380cb07a96d515e0dc[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Thu Jul 3 22:12:37 2025 +0530
+
+    CICD Test3
+
+[33mcommit 8eeede32844cc20ec86884270e4ccd38d24aebb1[m
+Author: S Kevin Joe Harris <59595928+Kevinjoeharris@users.noreply.github.com>
+Date:   Thu Jul 3 22:09:19 2025 +0530
+
+    CICD 2
+
+[33mcommit 725f6d46312fdcc4d835fbfb2dd8f520cc214735[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Thu Jul 3 21:50:53 2025 +0530
+
+    CICD Test2
+
+[33mcommit b6d8b6f40f04cd89a4d12cd17b0839024d38a65a[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Thu Jul 3 21:46:46 2025 +0530
+
+    Test CICD
+
+[33mcommit afc75a3eca8413da61020d04880167e8aa93d3ac[m
+Author: S Kevin Joe Harris <59595928+Kevinjoeharris@users.noreply.github.com>
+Date:   Thu Jul 3 21:29:34 2025 +0530
+
+    CI/CD Setup
+    
+    CI/CD Setup
+
+[33mcommit 4a4d15ecc70be468fa4e7f6ac22d9efcf5f1936a[m
+Merge: f85484d 92148ee
+Author: S Kevin Joe Harris <59595928+Kevinjoeharris@users.noreply.github.com>
+Date:   Thu Jul 3 21:16:47 2025 +0530
+
+    Merge pull request #2 from Kevinjoeharris/Dockerized-Version
+    
+    Deployed to kubernetes
+
+[33mcommit 92148ee754a893aa3dc90e36fc7a8b0bfce50c17[m[33m ([m[1;31mNews-Aggregator-using-Django/Dockerized-Version[m[33m)[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Thu Jul 3 21:14:27 2025 +0530
+
+    Kubernetes
+
+[33mcommit f85484d1e1e08aed93e5af74fbef0b905ee0a668[m
+Merge: 30a31ea 8c284aa
+Author: S Kevin Joe Harris <59595928+Kevinjoeharris@users.noreply.github.com>
+Date:   Sun Jun 22 21:13:55 2025 +0530
+
+    Merge pull request #1 from Kevinjoeharris/Dockerized-Version
+    
+    Dockerized version
+
+[33mcommit 8c284aa1950369778fbe2bbbd24c7cb377c609c8[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Sun Jun 22 21:02:32 2025 +0530
+
+    Dockerized the application
+
+[33mcommit f0a445d3ecc7d80a84aac4576b37b70fde015d56[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Sun Feb 23 06:34:52 2025 +0530
+
+    Dockerfile
+
+[33mcommit 30a31ea7f24066007c0375362a0aa26df3c7eb79[m[33m ([m[1;31mNews-Aggregator-using-Django/master[m[33m)[m
+Author: Kevinjoeharris <59595928+Kevinjoeharris@users.noreply.github.com>
+Date:   Sat Jan 29 16:11:51 2022 +0530
+
+    Create README.md
+
+[33mcommit e7c8e2112822cd78e1c0fc12ce76aad69c6f90ef[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Tue Jan 25 12:05:55 2022 +0530
+
+    Second
+
+[33mcommit 268aaf36d877ee98310dc7a399073f77c4f8483f[m
+Author: Kevin Joe Harris <kevinjoeharris1@gmail.com>
+Date:   Mon Jan 24 11:56:02 2022 +0530
+
+    first
